@@ -1,0 +1,12 @@
+location
+gate
+garden
+majesty
+place
+space
+expanse
+path
+area
+pinnacle
+locality
+principality

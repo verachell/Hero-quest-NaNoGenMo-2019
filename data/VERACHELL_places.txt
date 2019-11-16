@@ -1,0 +1,36 @@
+hardware store
+cinema
+opera house
+botanical gardens
+art gallery
+cafe
+library
+courthouse
+school
+university
+grocery store
+hair salon
+wine shop
+car dealership
+highway
+playground
+restaurant
+shopping mall
+museum
+woods
+bathroom
+lake
+laundromat
+convenience store
+gym
+town square
+bank
+duck pond
+aviary
+butterfly garden
+abandoned home
+derelict warehouse
+discount store
+construction site
+bakery
+zoo
