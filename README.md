@@ -37,7 +37,7 @@ To run the Present-day Hero's Quest program, you will need to install Common Lis
 
 The Present-day Hero's Quest program was developed using Steelbank Common Lisp (SBCL) on Linux. Present-day Hero's Quest has been tested on a different implementation of Lisp: CLISP on Linux. It was also tested on SBCL on Windows 10; it works on all of the above. Present-day Hero's Quest remains untested on Mac.
 
-###Installing Lisp
+### Installing Lisp
 While any ANSI-compliant implementation of Common Lisp would be appropriate, for the sake of example I'll give detailed instructions here for installing SBCL. This is simply because SBCL is available for a large range of OS's and chip architectures. 
 
 #### For Linux
@@ -66,7 +66,7 @@ Get Lisp started:
 
 No matter which OS you are on, you should now have a star-shaped prompt. You are now in the Lisp environment, ready to compile and run.
 
-To compile, type the following command, including brackets, quotation marks, etc.
+To compile, type the following command, including parentheses, quotation marks, etc.
 
 `(compile-file "herosquest.lisp")`
 
